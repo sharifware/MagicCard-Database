@@ -1,5 +1,6 @@
 import mariadb as sql
 import os
+from textual.app import App
 
 
 ## code adapted from Dr. Richard Stansbury's Deliverable 3 Example
